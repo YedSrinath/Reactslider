@@ -1,2 +1,2 @@
 # Reactslider
-slider using react
+A simple slider application implemented using react!
